@@ -1,0 +1,7 @@
+setup.py
+spanishnpvk.py
+spanishnpvk.egg-info/PKG-INFO
+spanishnpvk.egg-info/SOURCES.txt
+spanishnpvk.egg-info/dependency_links.txt
+spanishnpvk.egg-info/requires.txt
+spanishnpvk.egg-info/top_level.txt

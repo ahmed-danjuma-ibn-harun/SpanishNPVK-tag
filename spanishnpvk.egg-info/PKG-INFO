@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: spanishnpvk
+Version: 0.1
+Summary: A module for extracting Nouns, Proper Nouns, Verbs, and Keywords in Spanish.
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
